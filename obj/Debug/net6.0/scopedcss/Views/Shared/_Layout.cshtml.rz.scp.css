@@ -10,6 +10,10 @@ a.navbar-brand[b-ciol838hux] {
 a[b-ciol838hux] {
   color: #0077cc;
 }
+.body[b-ciol838hux] {
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+}
 
 .btn-primary[b-ciol838hux] {
   color: #fff;
